@@ -1,4 +1,4 @@
-#Aplikasi Bimbingan Online Tugas Akhir Berbasis Android
+# Aplikasi Bimbingan Online Tugas Akhir Berbasis Android
 
 ## Penjelasan
 Beberapa perguruan tinggi di Indonesia senantiasa melakukan pengembangan dari berbagai bidang termasuk sistem informasi akademik yang dimilikinya seperti web site resmi, aplikasi SIAM, aplikasi keuangan dan lainnya. Namun hingga saat ini beberapa Perguruan tinggi ini belum menerapkan sistem pengendalian Tugas Akhir atau Skripsi berbasis aplikasi website atau mobile. Masih banyak aktifitas yang dilakukan secara manual seperti mengisi formulir pendaftaran, pelaporan hasil bimbingan dan lain sebagainya. Pemanfaatan TIK terutama penerapan penggunaan sistem informasi pada bidang layanan administrasi akademik di perguruan tinggi saat ini menjadi suatu kebutuhan wajib supaya dapat meningkatkan daya saing perguruan tinggi. Tidak lepas dengan permasalahan pada beberapa perguruan tinggi yaitu masih melakukan bimbingan skripsi manual atau offline yang nantinya dapat membuang waktu ketika menunggu dosen tanpa melihat lokasi dosen atau mahasiswa, dengan adanya aplikasi ini akan bisa mengurangi resiko menunggu lama antara dosen dan mahasiswa. Serta di dalam aplikasi ini bisa di improve dengan memberi fiture penjadwalan bimbingan. 
@@ -7,4 +7,4 @@ Dari Ketiga fitur tersebut akan dapat mengurangi permasalahan menuggu terlalu la
 
 
 ## Gambar Mockup Contoh Fitur
-![](mockup.jpg)
+![](mockup.JPG)
